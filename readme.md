@@ -1,6 +1,6 @@
 # BridgeBase – Android Jetpack Compose Architecture Example
 
-BridgeBase is a modern Android application demonstrating a scalable architecture built with **Jetpack Compose, MVVM, Hilt dependency injection, and Firebase Authentication**.
+BridgeBase is a modern Android architecture example built with Jetpack Compose, MVVM, Hilt dependency injection, and Firebase Authentication.
 
 The project was originally developed as a starter foundation for building production Android applications and is now open-sourced as a **reference implementation for modern Compose app architecture**.
 
@@ -14,23 +14,33 @@ Light and dark theme support with a modular Jetpack Compose architecture.
 
 ### Login
 
-<img src="screenshots/login.png" width="700">
+<p align="center">
+  <img src="screenshots/login.png" width="450">
+</p>
 
 ### Home Dashboard
 
-<img src="screenshots/home.png" width="700">
+<p align="center">
+  <img src="screenshots/home.png" width="450">
+</p>
 
 ### Journal
 
-<img src="screenshots/journal.png" width="700">
+<p align="center">
+  <img src="screenshots/journal.png" width="450">
+</p>
 
 ### Goals
 
-<img src="screenshots/goals.png" width="700">
+<p align="center">
+  <img src="screenshots/goals.png" width="450">
+</p>
 
 ### Settings
 
-<img src="screenshots/settings.png" width="700">
+<p align="center">
+  <img src="screenshots/settings.png" width="450">
+</p>
 
 ---
 
