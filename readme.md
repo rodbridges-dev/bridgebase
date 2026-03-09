@@ -14,23 +14,23 @@ Light and dark theme support with a modular Jetpack Compose architecture.
 
 ### Login
 
-![Login](screenshots/login.png)
+<img src="screenshots/login.png" width="700">
 
 ### Home Dashboard
 
-![Home](screenshots/home.png)
+<img src="screenshots/home.png" width="700">
 
 ### Journal
 
-![Journal](screenshots/journal.png)
+<img src="screenshots/journal.png" width="700">
 
 ### Goals
 
-![Goals](screenshots/goals.png)
+<img src="screenshots/goals.png" width="700">
 
 ### Settings
 
-![Settings](screenshots/settings.png)
+<img src="screenshots/settings.png" width="700">
 
 ---
 
