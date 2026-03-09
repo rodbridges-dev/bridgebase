@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">BridgeBase</string>
+
+    <!-- LoginScreen -->
+    <string name="welcometoapp">Welcome back to BridgeBase</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgotpassword">Forgot password?</string>
+    <string name="continueterms">By continuing, you agree to our Terms of Service.</string>
+    <string name="notmember">Don’t have an account?</string>
+
+    <!-- SignupScreen -->
+    <string name="signup">Sign Up</string>
+    <string name="createnewaccount">Create Your Account</string>
+    <string name="fullname">Full Name</string>
+    <string name="alreadymember">Already have an account?</string>
+    <string name="loginhere">Log in</string>
+
+
+    <!-- Forgot Password Screen -->
+    <string name="resetpassword">Reset Password</string>
+    <string name="sendresetlink">Enter your email and we\'ll send you a password reset link.</string>
+    <string name="sendlink">Send Reset Link</string>
+    <string name="backtologin">Back to Login</string>
+
+    <!-- Overlay banner -->
+    <string name="headsup">Heads up!</string>
+
+    <!-- HomeScreen -->
+    <string name="journaltoday">Journal today to start a new streak!</string>
+    <string name="recentactivity">Recent Activity</string>
+    <string name="makingprogress">You\'re making steady progress!</string>
+    <string name="norecentactivity">No recent activity yet.</string>
+    <string name="yourgoals">Your Goals</string>
+    <string name="inprogress">In Progress</string>
+    <string name="completed">Completed</string>
+    <string name="upcoming">Upcoming</string>
+
+    <!-- Journal -->
+    <string name="journal">Journal</string>
+    <string name="searchentries">Search entries…</string>
+    <string name="todaysreflection">Today\'s Reflection</string>
+    <string name="mood">Mood</string>
+    <string name="newjournalentry">New Journal Entry</string>
+    <string name="nojournalentries">No journal entries yet</string>
+    <string name="startjournaling">Start journaling to track your thoughts and progress.</string>
+    <string name="readmore">Read More</string>
+    <string name="filters">Filters</string>
+    <string name="newentry">New Entry</string>
+    <string name="title">Title</string>
+    <string name="writeyourthoughts">Write your thoughts…</string>
+    <string name="none">None</string>
+    <string name="recententries">Recent Entries</string>
+
+    <!-- Goals -->
+    <string name="goaltitle">Goal Title</string>
+    <string name="targetdate">Target Date</string>
+    <string name="notes">Notes</string>
+    <string name="saveentry">Save Entry</string>
+    <string name="percentcomplete">%1$d%% complete</string>
+    <string name="yourgoalsheader">🎯 Your Goals</string>
+    <string name="ok">OK</string>
+    <string name="addnewgoal">Add New Goal</string>
+    <string name="addnewgoaldefault">Read 10 minutes every morning</string>
+    <string name="selectadate">Select a date</string>
+    <string name="optionalnnotes">Optional notes…</string>
+    <string name="savegoal">Save Goal</string>
+    <string name="goaldetails">Goal Details</string>
+    <string name="nonotesadded">No notes added.</string>
+    <string name="nogoalsyet">No Goals Yet</string>
+    <string name="setfirstgoal">Set your first goal to start tracking your progress.</string>
+    <string name="addagoal">Add a Goal</string>
+    <string name="noactivegoals">No active goals yet</string>
+    <string name="youhaveupcoming">You have upcoming goals!</string>
+    <string name="nocompletegoals">No completed goals yet</string>
+
+    <!-- Settings -->
+    <string name="settings">⚙️ Settings</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="account">Account</string>
+    <string name="accountdisclaimer">Log out of your account. Your local data stays cached until the next login.</string>
+    <string name="logout">Log out</string>
+    <string name="logoutdisclaimer">You will be logged out of your account.</string>
+    <string name="preferences">Preferences</string>
+    <string name="darkmode">Dark Mode</string>
+    <string name="notifications">Notifications</string>
+    <string name="support">Support</string>
+    <string name="contactsupport">Contact Support</string>
+    <string name="terms">Terms &amp; Privacy</string>
+    <string name="view">View</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Add Goal -->
+    <string name="addgoal">Add Goal</string>
+    "
+
+
+</resources>

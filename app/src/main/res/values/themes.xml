@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BridgeBase.Splash" parent="Theme.SplashScreen">
+        <item name="android:windowBackground">@color/splash_bg_color</item>
+
+        <item name="windowSplashScreenBackground">@color/splash_bg_color</item>
+        <item name="windowSplashScreenAnimatedIcon">@color/splash_bg_color</item>
+        <item name="postSplashScreenTheme">@style/Theme.BridgeBase</item>
+    </style>
+
+    <style name="Theme.BridgeBase" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
